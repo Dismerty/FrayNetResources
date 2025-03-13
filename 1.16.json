@@ -9900,6 +9900,10 @@
       "hash": "9dd32387135eefa7ab95996d52a5ca4cec8a3b30",
       "size": 86
     },
+    "minecart/textures/gui/fn_bars.png": {
+        "hash": "dec3f31fb4fe1a383d37e14eb180ec71aa378c09",
+        "size": 3575
+    },
     "pack.mcmeta": {
       "hash": "abae03f5d5182f03e9c15bb330fead4209938eb6",
       "size": 18845
